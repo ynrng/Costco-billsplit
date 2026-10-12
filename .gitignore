@@ -224,3 +224,4 @@ __marimo__/
 ocr_text/*
 !.gitkeep
 .DS_Store
+!example/IMG_1113.jpeg
